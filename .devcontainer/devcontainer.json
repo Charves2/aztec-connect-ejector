@@ -2,9 +2,9 @@
   "name": "Aztec V2 ejector",
   "forwardPorts": [8081],
   "hostRequirements": {
-    "cpus": 4,
-    "memory": "8gb",
-    "storage": "20gb"
+    "cpus": 16,
+    "memory": "64gb",
+    "storage": "128gb"
   },
   "customizations": {
     "codespaces": {
